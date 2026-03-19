@@ -1,0 +1,9 @@
+{
+  "appName": "work-bot",
+  "logging": {
+    "level": "info"
+  },
+  "features": {
+    "reviewNotifications": true
+  }
+}

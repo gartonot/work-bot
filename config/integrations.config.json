@@ -1,0 +1,13 @@
+{
+  "vkTeams": {
+    "enabled": true,
+    "webhookPath": "/webhooks/vk-teams"
+  },
+  "yandexTracker": {
+    "enabled": true,
+    "webhookPath": "/webhooks/yandex-tracker",
+    "reviewStatusNames": [
+      "Ревью"
+    ]
+  }
+}
